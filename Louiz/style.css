@@ -62,8 +62,6 @@ body {
     border-bottom: 4px solid var(--verde);
 }
 
-
-
 .abas-textos {
     background-color: var(--texto-fundo);
     padding: 40px;
@@ -95,6 +93,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
 }
+
 .contador-digito {
     padding: 0 16px;
     text-align: center;
